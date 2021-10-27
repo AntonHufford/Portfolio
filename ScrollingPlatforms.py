@@ -1,3 +1,6 @@
+#a side scrolling platform game using a lot of programming concepts
+#arrow keys to move, space bar to pause/unpause
+
 import pygame
 import sys
 import random
