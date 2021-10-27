@@ -1,3 +1,7 @@
+#a q-learning algorithm that finds the optimum path 
+#through a maze, animated with pygame, showing the 
+#updated path every 100 iterations
+
 import numpy as np
 import pygame
 import sys
