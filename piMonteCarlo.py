@@ -1,4 +1,5 @@
-#monte carlo pi calculation
+#monte carlo pi calculation. a unit circle is inscribed in a square. 
+#random points are generated, the ratio of which fall in or out of the circle eventually converge to pi/4
 
 inside = 0
 total = 0
