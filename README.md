@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntonHufford
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently taking my Python skills to the next level
 - 📫 Reach me via email at hufford.anton@gmail.com
 
