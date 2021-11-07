@@ -2,6 +2,7 @@ import numpy as np
 import pygame
 import sys
 import time
+#module I wrote to keep maze wall definitions in, also in the github portfolio:
 import rw
 
 pygame.init()
@@ -16,12 +17,14 @@ steps = 0
 total = 0
 env_x = 25
 env_y = 50
+
 #drawing coordinates:
 x = 0
 y = 0
 agent_x = 0
 agent_y = 100
 color = (66, 135, 245)
+
 iterations = 1200
 max_steps = 10000
 delay = 5
@@ -120,6 +123,7 @@ for episode in range((iterations + 1)):
             break
         
         steps += 1
+        
         #drawing coordinates
         agent_x = (col_index * 20)
         agent_y = (row_index * 20)
